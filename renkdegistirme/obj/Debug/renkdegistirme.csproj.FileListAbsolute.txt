@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\renkdegistirme\renkdegistirme\bin\Debug\renkdegistirme.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\renkdegistirme\renkdegistirme\bin\Debug\renkdegistirme.exe
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\renkdegistirme\renkdegistirme\bin\Debug\renkdegistirme.pdb
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\renkdegistirme\renkdegistirme\obj\Debug\renkdegistirme.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\renkdegistirme\renkdegistirme\obj\Debug\renkdegistirme.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\renkdegistirme\renkdegistirme\obj\Debug\renkdegistirme.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\renkdegistirme\renkdegistirme\obj\Debug\renkdegistirme.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\renkdegistirme\renkdegistirme\obj\Debug\renkdegistirme.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\renkdegistirme\renkdegistirme\obj\Debug\renkdegistirme.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\renkdegistirme\renkdegistirme\obj\Debug\renkdegistirme.exe
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\renkdegistirme\renkdegistirme\obj\Debug\renkdegistirme.pdb
